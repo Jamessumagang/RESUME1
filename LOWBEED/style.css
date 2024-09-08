@@ -1,0 +1,74 @@
+body{
+    height: 30%;
+    width: 60%;
+    margin: 0;
+    background-color: black;
+    
+}
+.content-left{
+    max-width:50% ;
+    width: 100%;
+    
+}
+.content-right{
+    max-width: 50%;
+    width: 100%;
+    padding:50px;
+    margin: 50px;
+}
+.content-left img{
+    height: 300px;
+    max-width: 300px;
+    width: 100%;
+    margin: 50px;
+    padding: 50px;
+
+}
+.phone img{
+    height: 20px;
+    width: 20px;
+}
+.phone{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+.google{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+.google img{
+    height: 20px;
+    width: 20px;
+}
+.facebook{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    
+} 
+.facebook img{
+   height: 20px;
+    width: 20px;
+    
+} 
+.header-profile{
+    display: flex;
+}
+.fullname{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.section{
+    text-align: center;
+    font-size: small;
+    height: 120px;
+}
+.year-profile{
+    color: white;
+    font-size: larger;
+    margin: 60px;
+    padding: 20px;
+}
