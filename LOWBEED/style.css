@@ -1,20 +1,22 @@
 body{
     height: 30%;
-    width: 60%;
+    width: 100%;
     margin: 0;
     background-color: black;
+    
     
 }
 .content-left{
     max-width:50% ;
     width: 100%;
+    height:40%
+    padding: 10%;
     
 }
 .content-right{
     max-width: 50%;
     width: 100%;
     padding:50px;
-    margin: 50px;
 }
 .content-left img{
     height: 300px;
@@ -22,6 +24,7 @@ body{
     width: 100%;
     margin: 50px;
     padding: 50px;
+
 
 }
 .phone img{
@@ -57,18 +60,18 @@ body{
     display: flex;
 }
 .fullname{
-    text-align: center;
-    font-size: 30px;
+    font-size: xx-large;
     color: white;
+    margin: 40;
 }
 .section{
-    text-align: center;
     font-size: small;
     height: 120px;
 }
 .year-profile{
     color: white;
-    font-size: larger;
+    font-size: x-large;
     margin: 60px;
     padding: 20px;
+    height: 0%;
 }
